@@ -1,5 +1,5 @@
 import math
-#Dis proving Goldbachs proposition
+#Disproving Goldbachs proposition
 '''
 
 Upon reading the prompt "Write a computer program to determine the smallest odd 
