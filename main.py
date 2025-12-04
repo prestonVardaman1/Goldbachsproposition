@@ -5,7 +5,7 @@ import math
 Upon reading the prompt "Write a computer program to determine the smallest odd 
 composite number that cannot be written as the sum of a prime and twice a square."
 
-I determined there are 2 total functions to successfully disprove Goldbachs proposition
+I determined there are 2 total CORE functions to successfully disprove Goldbachs proposition
 
 1. check for prime numbers
     For this function I programmed check_prime to take integer n and check if its less than or equal to 1
@@ -61,5 +61,6 @@ def smallest_composite():
 
 if __name__ == '__main__':
     print(smallest_composite())
+
 
 
